@@ -24,7 +24,7 @@ Please review the privacy policies of these third-party services for more detail
 
 - You can adjust your device settings to limit ad tracking or opt out of personalized ads. Please refer to your device's settings.
 
-## USE AT YOUR OWN RISK
+## Use At Your Own Risk
 
 - This app is for informational purposes only. Consult official information sources to confirm information provided in this app.
 ## Changes to this Privacy Policy
