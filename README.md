@@ -1,5 +1,7 @@
 # Privacy Policy for App
 
+Last updated: August 29, 2023
+
 This Privacy Policy describes how Tire Size Comparison ("we," "us," or "our") collects, uses, and shares personal information when you use our mobile application Tire Size Comparison (the "App").
 
 ## Information We Collect
