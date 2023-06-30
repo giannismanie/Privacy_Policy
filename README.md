@@ -1,6 +1,6 @@
 # Privacy Policy for App
 
-Last updated: August 29, 2023
+Last updated: June 30, 2023
 
 This Privacy Policy describes how our apps ("we," "us," or "our") collects, uses, and shares personal information when you use them (the "App").
 
