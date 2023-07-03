@@ -22,6 +22,10 @@ Please review the privacy policies of these third-party services for more detail
 
 - We do not retain any personal information collected through the App. Any data collected by third-party services, such as AdMob and Firebase Analytics, is subject to their respective data retention policies.
 
+## Customer Service
+
+- The Publisher does not take the responsibility for providing any customer service related to software.
+
 ## Your Choices
 
 - You can adjust your device settings to limit ad tracking or opt out of personalized ads. Please refer to your device's settings.
