@@ -12,7 +12,7 @@ This Privacy Policy describes how our apps collects, uses, and shares personal i
 
 ## Third-Party Services
 
-- AdMob: We use Google AdMob to display banner advertisements in the App. AdMob may collect certain personal information, such as device identifiers and location data, to provide targeted advertising. Please refer to Google's Privacy Policy (https://policies.google.com/privacy) for more information on how AdMob collects, uses, and protects personal information.
+- AdMob: We use Google AdMob to display banner advertisements in the App. AdMob may collect certain personal information, such as device identifiers and location data, to provide targeted advertising. Please refer to [Google's Privacy Policy](https://policies.google.com/privacy) for more information on how AdMob collects, uses, and protects personal information.
 
 - Firebase Analytics: We use Firebase Analytics, a service provided by Google, to gather and analyze anonymous usage information about the App. This helps us understand how users interact with the App and make improvements. Firebase Analytics may collect certain data as outlined in Google's Privacy Policy.
 
