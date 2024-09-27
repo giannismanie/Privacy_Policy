@@ -1,8 +1,13 @@
 # Privacy Policy for App
 
-Last updated: July 03, 2023
+Last updated: Sep 27, 2024
 
 This Privacy Policy describes how our apps collects, uses, and shares personal information when you use them.
+
+## Links to Our Apps
+
+- [Pulley Calculator](https://play.google.com/store/apps/details?id=com.manie.pulleycalc2&hl=en&gl=US)
+- [Tire Size Comparison](https://play.google.com/store/apps/details?id=com.manie.tiresizecomparison&hl=en&gl=US)
 
 ## Information We Collect
 
